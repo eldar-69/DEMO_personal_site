@@ -1,2 +1,2 @@
 # DEMO_project_personal_website
-Created with HTML5, CSS3. 
+Demo project, created with HTML5, CSS3. 
